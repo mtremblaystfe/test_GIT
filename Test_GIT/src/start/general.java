@@ -1,5 +1,6 @@
+package src.start;
 
-public class main {
+public class general {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

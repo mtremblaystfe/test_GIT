@@ -7,6 +7,7 @@ public class Main {
 		System.out.println("Yo");
 		
 		System.out.println("Modification");
+		System.out.println("Allo");
 	}
 
 }
